@@ -1,0 +1,26 @@
+<rotator>
+	<panel>
+		<number>1</number>
+		<image>https://christianfm.com/kbm2023/wp-content/uploads/2024/01/1-CFM-app-ads.jpg</image>
+		<url>https://www.christianfm.com</url>
+		<redirect>n</redirect>
+	</panel>
+	<panel>
+		<number>2</number>
+		<image>https://christianfm.com/kbm2023/wp-content/uploads/2024/01/2-CFM-app-ads.jpg</image>
+		<url>https://branthansen.com</url>
+		<redirect>n</redirect>
+	</panel>
+	<panel>
+		<number>3</number>
+		<image>https://christianfm.com/kbm2023/wp-content/uploads/2024/01/3-CFM-app-ads.jpg</image>
+		<url>https://heardonair.com</url>
+		<redirect>n</redirect>
+	</panel>
+
+
+
+
+
+
+
